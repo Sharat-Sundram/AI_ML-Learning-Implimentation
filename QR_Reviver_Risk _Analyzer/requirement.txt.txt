@@ -1,0 +1,7 @@
+Tech Stack
+
+opencv-python
+numpy
+pillow
+pyzbar
+gradio
